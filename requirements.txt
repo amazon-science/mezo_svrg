@@ -1,0 +1,10 @@
+datasets
+lightning
+matplotlib
+scikit-learn
+scipy
+torch
+torchmetrics
+transformers
+torchvision
+loralib
